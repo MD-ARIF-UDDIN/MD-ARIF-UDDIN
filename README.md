@@ -1,6 +1,3 @@
-### Hi there 👋
-
-<!--
 <h1 align="center">Hi 👋, I'm Md Arif Uddin</h1>
 <h3 align="center">Frontend Developer | MERN Stack Developer | Competitive Programmer</h3>
 
@@ -30,4 +27,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=md-arif-uddin&show_icons=true&locale=en" alt="md-arif-uddin" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=md-arif-uddin&" alt="md-arif-uddin" /></p>
--->
